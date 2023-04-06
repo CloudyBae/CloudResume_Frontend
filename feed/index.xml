@@ -12,32 +12,12 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 05 Apr 2023 19:44:22 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 06 Apr 2023 19:34:14 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2</generator>
-	<item>
-		<title>test</title>
-		<link>/2023/04/05/test/</link>
-					<comments>/2023/04/05/test/#respond</comments>
-		
-		<dc:creator><![CDATA[yoojinbae]]></dc:creator>
-		<pubDate>Wed, 05 Apr 2023 19:44:21 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=7</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="/wp-content/uploads/2023/04/dvcomm15.png" alt="" class="wp-image-9" srcset="/wp-content/uploads/2023/04/dvcomm15.png 1000w, /wp-content/uploads/2023/04/dvcomm15-300x300.png 300w, /wp-content/uploads/2023/04/dvcomm15-150x150.png 150w, /wp-content/uploads/2023/04/dvcomm15-768x768.png 768w" sizes="(max-width: 1000px) 100vw, 1000px" /></figure>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2023/04/05/test/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
