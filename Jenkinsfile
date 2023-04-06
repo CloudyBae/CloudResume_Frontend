@@ -5,7 +5,7 @@ pipeline {
         stage('Clone repository') {
             steps {
                 echo 'Cloning files from git...'
-                git branch: 'master', credentialsId: 'jenkins pipeline github', url: 'https://github.com/yourusername/CloudResume_Frontend.git'
+                git branch: 'master', credentialsId: 'github-jenkins', url: 'git@github.com:yoojin93/CloudResume_Frontend.git'
             }
         }
         stage('Push to S3') {
