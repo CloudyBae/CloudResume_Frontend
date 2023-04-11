@@ -23,4 +23,4 @@ jobs:
     
     - name: Sync files to S3 bucket
       run: |
-        aws s3 sync ./build/. s3://cloudresume-frontend --delete 
+        aws s3 sync ./CloudResume_Frontend/ s3://cloudresume-frontend --delete 
